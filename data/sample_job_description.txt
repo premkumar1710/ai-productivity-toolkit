@@ -1,0 +1,20 @@
+Job Title: Senior Distributed Systems Engineer (Python)
+Company: Apex Cloud Technologies
+Location: Remote
+
+About the Role:
+We are seeking an experienced Backend Engineer to scale our core event-driven infrastructure. You will design, build, and optimize microservices handling over 50M requests daily.
+
+Key Responsibilities:
+- Design and scale distributed backend microservices using Python and asyncio.
+- Architect caching layers using Redis and manage high-availability PostgreSQL clusters.
+- Deploy and monitor services on Kubernetes (EKS) using Terraform and Helm.
+- Implement robust telemetry, tracing, and observability using OpenTelemetry and Prometheus.
+- Mentor junior engineers and champion clean code, rigorous testing, and system reliability.
+
+Required Qualifications:
+- 4+ years of professional backend development with Python.
+- Proven experience with distributed systems, concurrency, and async architectures.
+- Experience with container orchestration in Kubernetes and Infrastructure as Code (Terraform).
+- Strong foundation in relational databases (PostgreSQL) and in-memory caches (Redis).
+- Passion for automated testing (pytest), CI/CD, and site reliability.

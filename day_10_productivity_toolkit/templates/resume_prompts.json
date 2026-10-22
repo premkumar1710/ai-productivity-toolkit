@@ -1,0 +1,16 @@
+{
+  "name": "resume_optimizer_template",
+  "version": "1.0.0",
+  "description": "ATS keyword matching, skill gap discovery, and XYZ-bullet point enhancer.",
+  "roles": {
+    "system": "You are a Principal Technical Recruiter and Career Strategist."
+  },
+  "schema_keys": [
+    "match_score",
+    "strengths",
+    "skills_gap",
+    "enhanced_bullet_points",
+    "tailored_cover_letter_snippet"
+  ],
+  "formula": "Accomplished [X] as measured by [Y], by doing [Z]"
+}

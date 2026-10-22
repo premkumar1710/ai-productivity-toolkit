@@ -1,0 +1,18 @@
+Sprint 42 Retrospective and Architecture Sync
+Date: October 20, 2026
+Attendees: Alex (Lead), Priya (DevOps), Carlos (Frontend), Mei (Data), Marcus (Backend)
+
+1. Sprint Milestones:
+- Uptime target of 99.95% was exceeded, reaching 99.98% for the billing and auth clusters.
+- P99 latency on checkout endpoints dropped from 480ms to 230ms after migrating to Redis connection pooling.
+- Cloud spend reduced by $14,000/month after terminating unattached EBS volumes and right-sizing memory instances.
+
+2. Roadblocks & Incidents:
+- Marcus noted replica lag during peak hours on the reporting replica database.
+- Priya pointed out missing IAM role constraints in the staging Terraform manifest.
+
+3. Action Items:
+- Marcus: Implement read-replica connection throttling before next Thursday.
+- Priya: Complete Terraform IAM policy audit and apply least-privilege principles.
+- Carlos: Finalize user feedback survey modal on the settings dashboard by Wednesday.
+- Alex: Submit revised cloud budget report to Elena by EOD Friday.

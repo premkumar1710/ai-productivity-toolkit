@@ -1,0 +1,20 @@
+Jane Doe - Senior Backend Engineer
+Email: jane.doe@example.com | Phone: (555) 019-2834 | GitHub: github.com/janedoe
+
+SUMMARY:
+Results-driven software engineer with 5 years of experience architecting distributed backend services in Python and FastAPI. Experienced with PostgreSQL, Redis, and containerized deployments using Docker and GitHub Actions.
+
+EXPERIENCE:
+Software Engineer | Acme Cloud Solutions (2022 - Present)
+- Developed RESTful API endpoints in FastAPI and PostgreSQL used by 150,000 active users.
+- Reduced database query latency by adding composite indexes and Redis caching.
+- Maintained CI/CD pipelines with GitHub Actions and Docker.
+- Collaborated with frontend engineers to integrate webhooks and payment flows.
+
+Junior Developer | DataSphere Inc. (2020 - 2022)
+- Built automated web scrapers and ETL scripts using Python, Pandas, and BeautifulSoup.
+- Wrote unit tests in pytest achieving 82% test coverage.
+- Assisted with database schema migrations in Alembic.
+
+SKILLS:
+Python, FastAPI, Django, PostgreSQL, Redis, Docker, Git, CI/CD, Pytest, SQL, REST APIs

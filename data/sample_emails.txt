@@ -1,0 +1,16 @@
+--- Sample Email 1: Project Delay Notification ---
+Subject: Update on Data Pipeline Migration
+Hi Alex,
+We hit a roadblock during the database sharding phase of the analytics pipeline migration.
+The replica synchronization is taking longer than expected, and we might miss our Thursday cutoff.
+Can you please advise if we should push back the client demo or operate in read-only mode during the transition?
+Thanks,
+Marcus
+
+--- Sample Email 2: Executive Inquiry ---
+Subject: Q3 Cloud Infrastructure Spend Variance
+Alex,
+Finance flagged an 18% variance between budgeted and actual AWS expenditures for August.
+Could you send over a brief breakdown of the major drivers and confirm what mitigation steps are underway?
+Best,
+Elena
